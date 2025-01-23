@@ -1,2 +1,2 @@
 # currency converter app
-A simple app made using flutter and dart.
+An app made using flutter and dart that converts USD to INR
